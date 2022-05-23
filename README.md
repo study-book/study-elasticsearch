@@ -1,6 +1,6 @@
 # study-elasticsearch
 
-NaverWebtoon Content Platform Tech 홍영준 elasticsearch 스터디
+NaverWebtoon Contents Platform Tech 홍영준 elasticsearch 스터디
 
 # 스터디 교재
 교재 : 엘라스틱 스택 개발부터 운영까지
