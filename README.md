@@ -1,3 +1,5 @@
+# 보류 (리팩터링 스터디 이후 진행)
+
 # study-elasticsearch
 
 NaverWebtoon Contents Platform Tech 홍영준 elasticsearch 스터디
